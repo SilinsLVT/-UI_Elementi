@@ -5,12 +5,12 @@ Projekts, kas demostrē UI elementu lietojumu, tēma: Mr. Bean
 
 
 ## Darāmo darbu saraksts
-- [ ] input file lietojums 
-- [ ] Next elementa lietojums
-- [ ] Button elementa lietojums
-- [ ] C# skripta izveide un piesaiste objektam
-- [ ] Image lementa leitojums
-- [ ] Toggle elementa lietojums
+- [x] input file lietojums 
+- [x] Next elementa lietojums
+- [x] Button elementa lietojums
+- [x] C# skripta izveide un piesaiste objektam
+- [x] Image lementa leitojums
+- [x] Toggle elementa lietojums
 - [ ] Toggle group komponentes lietojums
 - [ ] Drop down elementa lietojums
 - [ ] Slider elementa lietojums
